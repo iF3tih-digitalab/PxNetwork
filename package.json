@@ -1,0 +1,12 @@
+{
+  "name": "PxNetwork",
+  "version": "1.0.0",
+  "description": "Bot auto-mining PX Network multi akun + proxy",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jalancuan",
+  "license": "MIT"
+}
